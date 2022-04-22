@@ -1,0 +1,11 @@
+.Comment-text{
+    padding-top: 6px;
+    width: 100px;
+    border-color: azure;
+    border: 1px solid;
+    text-align: center;
+    margin-top: 10px;
+}
+.Comment{
+    margin-left: 10px;
+}
